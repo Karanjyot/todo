@@ -1,0 +1,38 @@
+#mainheader {
+    text-align: center;
+
+}
+
+body  {
+    background-color: skyblue !important;
+}
+
+#inputbox {
+    
+    width: 300px;
+}
+
+
+
+#btnInput{
+    margin: auto;
+    width: 400px
+
+}
+
+.deleteBtn {
+
+float: right;
+}
+
+.listofTodos {
+    display:table;
+    margin:0px auto 0px auto;
+    width: 300px;
+    margin-bottom: 5px;
+    
+}
+
+#addBtn{
+    margin-bottom: 5px;
+}
