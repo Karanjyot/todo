@@ -4,7 +4,7 @@
 }
 
 body  {
-    background-color: skyblue !important;
+    background-color:  #50C878!important;
 }
 
 #inputbox {
@@ -35,4 +35,26 @@ float: right;
 
 #addBtn{
     margin-bottom: 5px;
+}
+
+@media screen and (max-width: 480px) {
+    #btnInput{
+        margin-left: 25px;
+        
+    
+    }
+
+    .listofTodos {
+        display:table;
+        width: 300px;
+        margin-bottom: 5px;
+        margin-left: 50px;
+        
+    }
+
+    #mainheader {
+        margin-left: 50px;
+    
+    }
+
 }
